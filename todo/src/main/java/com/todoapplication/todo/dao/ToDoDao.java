@@ -7,4 +7,5 @@ import com.todoapplication.todo.models.ToDo;
 @Repository
 public interface ToDoDao extends MongoRepository<ToDo, String> {
 
+
 }
